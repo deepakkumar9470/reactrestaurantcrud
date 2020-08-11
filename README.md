@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Note: To run this app first open in vscode then run db file
+i.e: cd db
+     db.json --watch runserver 
+      
 ## Available Scripts
 
 In the project directory, you can run:
